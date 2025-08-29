@@ -44,11 +44,10 @@ Each script creates an output folder (e.g., `*_core_figs/` or `er_density/`), wi
 ## Citation
 If you use this code, please cite the accompanying article:
 
-> Biró, C. (2025). Hybrid Entropy-Based Metrics for Local Structure in Complex Networks: EWR and NED. *[Journal/Preprint]*.
+> Cs. Biró (2025). Hybrid Entropy-Based Metrics for k-Hop Environment Analysis
+in Complex Networks *[Journal/Preprint]*.
 > (Replace with the exact final citation once available.)
 
-Optionally cite this repository:
-> Biró, C. (2025). EWR/NED Experiments — Reproducibility Package (Version 1.0). GitHub. https://github.com/<your-repo>
 
 ## License
 MIT (or adjust to your preferred license).
